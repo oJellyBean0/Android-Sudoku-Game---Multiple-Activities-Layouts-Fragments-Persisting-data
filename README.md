@@ -1,6 +1,5 @@
 # Android-Sudoku-Game---Multiple-Activities-Layouts-Fragments-Persisting-data
 
-```
 ## Objectives:
 
 ```
