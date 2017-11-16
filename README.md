@@ -1,5 +1,7 @@
 # Android-Sudoku-Game---Multiple-Activities-Layouts-Fragments-Persisting-data
 
+![alt text] (https://github.com/oJellyBean0/Android-Sudoku-Game---Multiple-Activities-Layouts-Fragments-Persisting-data/blob/master/Screenshots/Main%20Activity.png)
+
 ## Objectives:
 
 ```
@@ -75,3 +77,13 @@ player has placed must still be the same.
 
 It should be possible to quit a puzzle and return to the main scene activity at any time while playing
 a puzzle. Be sure to update the best scores in this case.
+
+Screenshots
+Conflicts
+![alt text] (https://github.com/oJellyBean0/Android-Sudoku-Game---Multiple-Activities-Layouts-Fragments-Persisting-data/blob/master/Screenshots/Showing%20conflicts.png)
+
+Conflicts 2
+![alt text] (https://github.com/oJellyBean0/Android-Sudoku-Game---Multiple-Activities-Layouts-Fragments-Persisting-data/blob/master/Screenshots/Showing%20conflicts%202.png)
+
+Sudoku solved
+![alt text] (https://github.com/oJellyBean0/Android-Sudoku-Game---Multiple-Activities-Layouts-Fragments-Persisting-data/blob/master/Screenshots/Sudoku%20Solved.png)
